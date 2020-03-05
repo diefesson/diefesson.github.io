@@ -1,3 +1,4 @@
+![Perfil](https://avatars3.githubusercontent.com/u/20848200?s=320&v=4)
 # Diefesson de Sousa Silva
 
 ### Estutande de Ciencias da Computação na Universidade Federal do Ceara de Crateús
