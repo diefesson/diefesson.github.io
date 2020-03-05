@@ -5,4 +5,4 @@
 
 Tenho grande interesse em programação - principamente na Linguagens Java, C/C++, Python - e suas aplicações em soluções que
 envolvem ánalise de dados, banco de dados, e desenvolvimento web. Visando estar sempre atualizado sobre as ferramentas mais modernas
-com o objetivo de ser produtivo e preparado para as demandas atuais e futuras.
+com o objetivo de ser produtivo e preparado para as demandas atuais e futuras
