@@ -1,8 +1,9 @@
 ![Perfil](https://avatars3.githubusercontent.com/u/20848200?s=320&v=4)
 # Diefesson de Sousa Silva
 
-### Estutande de Ciencias da Computação na Universidade Federal do Ceara de Crateús
+Habilidades no desenvolvimento usando:
+![](https://img.shields.io/static/v1?label=&message=Java&color=red)
+![](https://img.shields.io/static/v1?label=&message=C/C%2B%2B&color=lightgrey)
+![](https://img.shields.io/static/v1?label=&message=Python&color=blue)
 
-Tenho grande interesse em programação - principamente na Linguagens Java, C/C++, Python - e suas aplicações em soluções que
-envolvem ánalise de dados, banco de dados, e desenvolvimento web. Visando estar sempre atualizado sobre as ferramentas mais modernas
-com o objetivo de ser produtivo e preparado para as demandas atuais e futuras.
+Atualmente aluno na Universidade Federal do Ceara de Crateús cursando Ciências da Computação.
